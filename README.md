@@ -10,7 +10,9 @@
   : 데이터 사이언스에 필요한 과정들을 개념으로 배우고 바로 코드로 익힐 수 있음 , 영어이지만 알참 (python, pandas, sql, machine learning, deep learning 등 기초 전반적으로 다질 수 있음)
 - HackerRank https://www.hackerrank.com/
   : 주 프로그래밍 언어로 알고리즘 연습 
- 
+- Programmers https://programmers.co.kr/
+  : HackerRank 한글버전, 주 프로그래밍 언어로 알고리즘 연습할 수 있고 코딩테스트 준비해볼 수 있음
+  
 ### 유료 강의
 
 ### 책
